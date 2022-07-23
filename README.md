@@ -22,3 +22,21 @@
 - Binary search tree
    - [x] Validate Binary Search Tree
    - [ ] Kth Smallest Element in a BST
+  
+
+## Graph
+### Essential questions​
+   - [x] Number of Islands
+   - [x] Flood Fill
+   - [x] 01 Matrix
+   - [ ] Valid Sudoku
+### Recommended practice questions​
+- Breath-first search
+   - [ ] Rotting Oranges
+   - [ ] As Far From Land As Possible
+   - [ ] Network Delay Time
+- Either search
+   - [ ] Clone Graph
+   - [ ] Pacific Altantic Water Flow
+- Topological sorting
+   - [ ] Course Schedule
