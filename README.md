@@ -40,3 +40,20 @@
    - [ ] Pacific Altantic Water Flow
 - Topological sorting
    - [ ] Course Schedule
+  
+## Heap
+
+### Techniques​
+**Mention of k​**
+   If you see a top or lowest k being mentioned in the question, it is usually a signal that a heap can be used to solve the problem, such as in Top K Frequent Elements.
+
+   If you require the top k elements use a Min Heap of size k. Iterate through each element, pushing it into the heap (for python heapq, invert the value before pushing to find the max). Whenever the heap size exceeds k, remove the minimum element, that will guarantee that you have the k largest elements.
+
+### Essential questions​
+
+   - [ ] Merge K Sorted Lists
+   - [ ] K Closest Points to Origin
+### Recommended practice questions​
+
+   - [ ] Top K Frequent Elements
+   - [ ] Find Median from Data Stream
