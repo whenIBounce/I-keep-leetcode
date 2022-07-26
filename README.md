@@ -26,9 +26,9 @@
 
 ## Graph
 ### Essential questions​
-   - [x] Number of Islands
-   - [x] Flood Fill
-   - [x] 01 Matrix
+   - [x] Number of Islands (2)
+   - [x] Flood Fill (2)
+   - [x] 01 Matrix (2)
    - [ ] Valid Sudoku
 ### Recommended practice questions​
 - Breath-first search
@@ -52,7 +52,7 @@
 ### Essential questions​
 
    - [ ] Merge K Sorted Lists
-   - [ ] K Closest Points to Origin
+   - [x] K Closest Points to Origin
 ### Recommended practice questions​
 
    - [ ] Top K Frequent Elements
