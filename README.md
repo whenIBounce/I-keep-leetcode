@@ -57,3 +57,13 @@
 
    - [ ] Top K Frequent Elements
    - [ ] Find Median from Data Stream
+  
+## Trie
+### Essential questions​
+
+- [ ] Implement Trie (Prefix Tree)
+### Recommended practice questions​
+
+- [ ] Add and Search Word
+- [ ] Word Break
+- [ ] Word Search II
