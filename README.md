@@ -61,7 +61,7 @@
 ## Trie
 ### Essential questions​
 
-- [ ] Implement Trie (Prefix Tree)
+- [x] Implement Trie (Prefix Tree)
 ### Recommended practice questions​
 
 - [ ] Add and Search Word
