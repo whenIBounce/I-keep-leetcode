@@ -33,16 +33,16 @@ class RandomizedSet:
     def remove(self, val: int) -> bool:
         existed = val in self.data_map
         if existed:
-            # get the index of elemt to remove
+            # get the index of 'element to remove'
             index_of_val_to_remove = self.data_map[val]
             # get the last element
             last_element_in_list = self.data[-1]
-            # switch pos of elemt to remove and last element
+            # switch pos of 'element to remove' and 'last element'
             self.data[index_of_val_to_remove] = last_element_in_list
             self.data[-1] = val
-            #update last elemt's index
+            #update 'last element' index
             self.data_map[last_element_in_list] = index_of_val_to_remove
-            # delete val
+            # delete val in both list and dict
             self.data.pop()
             self.data_map.pop(val)
         return existed
