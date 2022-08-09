@@ -71,12 +71,12 @@
 ## Hash Table
 
 ### Essential questions​
-  - [ ] Two Sum
-  - [ ] Ransom Note
+  - [x] Two Sum
+  - [x] Ransom Note
 
 ### Recommended practice questions​
-  - [ ] Group Anagrams
-  - [ ] Insert Delete GetRandom O(1)
-  - [ ] First Missing Positive
+  - [x] Group Anagrams
+  - [x] Insert Delete GetRandom O(1)
+  - [x] First Missing Positive
   - [ ] LRU Cache
   - [ ] All O one Data Structure
