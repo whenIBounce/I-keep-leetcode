@@ -67,3 +67,16 @@
 - [ ] Add and Search Word
 - [ ] Word Break
 - [ ] Word Search II
+
+## Hash Table
+
+### Essential questions​
+  - [ ] Two Sum
+  - [ ] Ransom Note
+
+### Recommended practice questions​
+  - [ ] Group Anagrams
+  - [ ] Insert Delete GetRandom O(1)
+  - [ ] First Missing Positive
+  - [ ] LRU Cache
+  - [ ] All O one Data Structure
