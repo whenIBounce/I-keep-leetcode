@@ -78,5 +78,5 @@
   - [x] Group Anagrams
   - [x] Insert Delete GetRandom O(1)
   - [x] First Missing Positive
-  - [ ] LRU Cache
+  - [x] LRU Cache
   - [ ] All O one Data Structure
