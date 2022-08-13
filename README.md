@@ -71,7 +71,7 @@
 ## Hash Table
 
 ### Essential questions​
-  - [x] Two Sum
+  - [x] Two Sum (3)
   - [x] Ransom Note
 
 ### Recommended practice questions​
