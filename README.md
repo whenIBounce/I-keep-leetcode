@@ -1,5 +1,22 @@
 # I-keep-leetcode
-
+- [I-keep-leetcode](#i-keep-leetcode)
+  - [Tree](#tree)
+    - [Essential questions​](#essential-questions)
+    - [Recommended practice questions​](#recommended-practice-questions)
+  - [Graph](#graph)
+    - [Essential questions​](#essential-questions-1)
+    - [Recommended practice questions​](#recommended-practice-questions-1)
+  - [Heap](#heap)
+    - [Techniques​](#techniques)
+    - [Essential questions​](#essential-questions-2)
+    - [Recommended practice questions​](#recommended-practice-questions-2)
+  - [Trie](#trie)
+    - [Essential questions​](#essential-questions-3)
+    - [Recommended practice questions​](#recommended-practice-questions-3)
+  - [Hash Table](#hash-table)
+    - [Essential questions​](#essential-questions-4)
+    - [Recommended practice questions​](#recommended-practice-questions-4)
+  - [Dynamic Programming](#dynamic-programming)
 ## Tree
 ### Essential questions​
 
@@ -73,10 +90,12 @@
 ### Essential questions​
   - [x] Two Sum (3)
   - [x] Ransom Note
-
+ 
 ### Recommended practice questions​
   - [x] Group Anagrams
   - [x] Insert Delete GetRandom O(1)
   - [x] First Missing Positive
   - [x] LRU Cache
   - [ ] All O one Data Structure
+
+## Dynamic Programming
