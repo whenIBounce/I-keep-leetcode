@@ -44,10 +44,11 @@ from typing import List
 class Solution:
     def fullJustify(self, words: List[str], maxWidth: int) -> List[str]:
         ans = []
-        cur_words = []
-        cur_length = 0
+        cur_words = [] # current line's words
+        cur_length = 0 # current line's words length count without space
 
         for word in words:
+            # len(cur_words) stands for no. of spaces
             if cur_length + len(cur_words) + len(word) <= maxWidth:
                 cur_words.append(word)
                 cur_length += len(word)
